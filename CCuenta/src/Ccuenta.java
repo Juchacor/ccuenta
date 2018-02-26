@@ -15,6 +15,7 @@ public class Ccuenta {
 	        nombre =nom;
 	        cuenta=cue;
 	        saldo=sal;
+	        
 	    }
 
 	    public double getSaldo ()
